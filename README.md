@@ -11,3 +11,5 @@ mimps searchs for a consensus mimp sequence in a fasta file of an assembly and r
 fasta_cazymes create a protein fasta files with only protein sequences corresponding to cazymes.
 
 plot_orthofinder is used to generate a barplot showing the distribution of prthogroups among the assemblies.
+
+effector_prop_plot is an example R file used to generate a barplot. The input file is tabulated table with the names of the contigs in the first column and the proportion of effectors in each contig in the second column. The same types of scripts were used for cazymes proportion/gene density/repeat content plots.
